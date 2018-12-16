@@ -1,2 +1,3 @@
 file_1
 add dev_1
+echo >> file_1
